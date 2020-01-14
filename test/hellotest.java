@@ -8,7 +8,7 @@ public class hellotest {
 
     @Test
     public void testNothing() {
-	pass("hello");
+	pass("hello pratyay");
     }
 
 
