@@ -8,7 +8,9 @@ public class hellotest {
 
     @Test
     public void testNothing() {
+	pass("hello");
     }
+
 
     @Test
     public void testWillAlwaysFail() {
